@@ -26,3 +26,4 @@ plt.ylabel("y")
 plt.grid(True)
 plt.close()
 plt.show()
+this is the theard version 
